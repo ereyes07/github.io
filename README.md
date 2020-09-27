@@ -1,4 +1,4 @@
-<doctytpes!>
+
 <html>
 <header>  
 Emily Reyes
